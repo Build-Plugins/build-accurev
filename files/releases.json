@@ -1,0 +1,59 @@
+[
+    {
+        "version": "6",
+        "semver": "6.752929",
+        "date": "2016.03.01 10:56",
+        "file": "AccuRev-6.752929.zip",
+        "notes": [
+            "Added RPX dependency and English translations.",
+            "      Add support for using the transaction ID (revision) in the Changelog step."
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000600752929"
+    },
+    {
+        "version": "5",
+        "semver": "5.669681",
+        "date": "2015.05.11 11:37",
+        "file": "AccuRev-5.669681.zip",
+        "notes": [
+            "Updated to append the depot name to all change IDs. This prevents an issue where multiple depots can have the",
+            "      same change ID causing issues to get picked up for depots that do not contain them."
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000500669681"
+    },
+    {
+        "version": "4",
+        "semver": "4.604289",
+        "date": "2014.11.14 11:59",
+        "file": "AccuRev-4.604289.zip",
+        "notes": [
+            "Fixed an issue where communication with the UrbanCode Build server would fail if it was running with an IBM JDK/JRE."
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000400604289"
+    },
+    {
+        "version": "3",
+        "semver": "3.408166",
+        "date": "2013.07.16 11:42",
+        "file": "AccuRev-3.408166.zip",
+        "notes": [
+            "Update to a newer version of a library for HTTP communication."
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000300408166"
+    },
+    {
+        "version": "2",
+        "semver": "2.350683",
+        "date": "2013.02.28 18:02",
+        "file": "AccuRev-2.350683.zip",
+        "notes": [
+            "Installing this plugin will give you access to the AccuRev commands listed below. These steps will be available for use when designing a Job."
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000000200350683"
+    }
+]
