@@ -33,7 +33,7 @@ nav:
   - Home: index.md
   - Overview: overview.md
   - Settings: settings.md
-  - Steps: steps.md
+#  - Steps: steps.md
 #  - Usage: usage.md
   - History: history.md
   - Downloads: downloads.md
