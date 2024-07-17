@@ -27,5 +27,15 @@ theme:
       accent: blue
 markdown_extensions:
   - admonition
+nav:
+  - Back to all Plug-Ins: "https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/"
+  - Build Plug-In index: "https://build-plugins.github.io/build-plugin-index"
+  - Home: index.md
+  - Overview: overview.md
+  - Settings: settings.md
+  - Steps: steps.md
+#  - Usage: usage.md
+  - History: history.md
+  - Downloads: downloads.md
 extra:
   generator: false
